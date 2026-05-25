@@ -43,13 +43,13 @@ https://JustSomeGuy7070.github.io/qr-code-generator/web-app/
 ### CLI Version
 ```bash
 npm install
-node npm start
+npm start
 ```
 or 
 
 ```bash
 npm install
-node npm run dev
+npm run dev
 ```
 
 Enter a URL when prompted and files will be generated automatically.
